@@ -1,0 +1,9 @@
+# Core functionality - changes here should be rare
+
+/src/app.py                   @theomelo
+/src/backend/database.py      @theomelo
+/src/backend/routers/auth.py  @theomelo
+
+# The frontend will need refactored soon to be more object oriented
+
+/src/static/   @theomelo
